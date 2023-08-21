@@ -45,6 +45,7 @@
 
 ![Просадки в 2019 год](https://github.com/sournk/baza_bot_backtest/blob/main/2019.%20Results.png)
 
+*График цены и открытия ордеров сетки 30.05.2019 против глобального минимума цены*
 ![30.05.2019](https://github.com/sournk/baza_bot_backtest/blob/main/2019/2019-05-30-XAUUSDM1.png)
 
 # 2020 год
@@ -56,8 +57,10 @@
 
 ![Просадки в 2020 год](https://github.com/sournk/baza_bot_backtest/blob/main/2020.%20Result.png)
 
+*График цены, открытия и закрытия ордеров сетки 12.08.2020*
 ![12.08.2020](https://github.com/sournk/baza_bot_backtest/blob/main/2020/2020-08-12-XAUUSDM1.png)
 
+*График цены, открытия и закрытия ордеров сетки 10.11.2020*
 ![10.11.2020](https://github.com/sournk/baza_bot_backtest/blob/main/2020/2020-11-10-XAUUSDM1.png)
 
 
@@ -70,9 +73,11 @@
 
 ![Просадки в 2021 год](https://github.com/sournk/baza_bot_backtest/blob/main/2021.%20Result.png)
 
+*График цены, открытия и закрытия ордеров сетки 14.06.2021*
 ![14.06.2021](https://github.com/sournk/baza_bot_backtest/blob/main/2021/2021-06-14-XAUUSDM1.png)
 
-![14.06.2021](https://github.com/sournk/baza_bot_backtest/blob/main/2021/2021-08-09-XAUUSDM1.png)
+*График цены, открытия и закрытия ордеров сетки 09.08.2021*
+![09.08.2021](https://github.com/sournk/baza_bot_backtest/blob/main/2021/2021-08-09-XAUUSDM1.png)
 
 
 # 2022 год
