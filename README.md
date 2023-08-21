@@ -23,6 +23,8 @@
 
 ![Просадки в 2019 год](https://github.com/sournk/baza_bot_backtest/blob/main/2019.%20Results.png)
 
+![30.05.2019](https://github.com/sournk/baza_bot_backtest/blob/main/2019/2019-05-30-XAUUSDM1.png)
+
 # 2020 год
 
 **ВЫВОД по 2020 году:** 
@@ -32,6 +34,11 @@
 
 ![Просадки в 2020 год](https://github.com/sournk/baza_bot_backtest/blob/main/2020.%20Result.png)
 
+![12.08.2020](https://github.com/sournk/baza_bot_backtest/blob/main/2020/2020-08-12-XAUUSDM1.png)
+
+![10.11.2020](https://github.com/sournk/baza_bot_backtest/blob/main/2020/2020-11-10-XAUUSDM1.png)
+
+
 # 2021 год
 
 **ВЫВОД по 2021 году:** 
@@ -40,6 +47,11 @@
 3. Для лота 0.02/$1000 долив потребовался также 3 раза. Максимальный объем долива почти 242% от депозита.
 
 ![Просадки в 2021 год](https://github.com/sournk/baza_bot_backtest/blob/main/2021.%20Result.png)
+
+![14.06.2021](https://github.com/sournk/baza_bot_backtest/blob/main/2021/2021-06-14-XAUUSDM1.png)
+
+![14.06.2021](https://github.com/sournk/baza_bot_backtest/blob/main/2021/2021-08-09-XAUUSDM1.png)
+
 
 # 2022 год
 
