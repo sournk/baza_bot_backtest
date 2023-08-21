@@ -34,7 +34,7 @@
     - [2020-08](2020/OptimizationReport-2020-08-Report.htm)
     - [2020-11](2020/OptimizationReport-2020-11-Report.htm)
     - [2021-06](2021/OptimizationReport-2021-06-Report.htm)
-    - [2021-00](2021/OptimizationReport-2021-08-Report.htm)
+    - [2021-08](2021/OptimizationReport-2021-08-Report.htm)
 
 # 2019 год
 
